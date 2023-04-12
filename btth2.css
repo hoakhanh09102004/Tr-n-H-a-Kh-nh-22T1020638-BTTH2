@@ -1,0 +1,104 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    padding-left: 380px;
+    padding-right: 50px;
+}
+.head .logo{
+    border-bottom: solid 1px white;
+    padding-right: 10px;
+}
+.head .hotline{
+    color: white;
+    padding-top: 40px;
+    border-bottom: solid 1px white;
+    padding-left: 50px;
+}
+.head2{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 90px;
+    padding-bottom: 50px;
+}
+.head2 .dk{
+    background-color:#678B37;
+    text-align: center;
+    border: solid 5px #DCE085;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}
+.input{
+    border-color: #DCE085;
+    justify-content: left;
+    background-color: transparent;
+    color: white;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.329) ;
+    padding: 4%;
+    border-top-color: rgba(124, 124, 124, 0.089);
+    border-left-color: rgba(124, 124, 124, 0.089);
+    border-right-color: rgba(124, 124, 124, 0.089);
+}
+.bottom{
+    background-color: #C5D301;
+    margin: 10px;
+    padding: 10px;
+}
+.center{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.center .center1{
+    display: flex;
+    flex-direction: column;
+}
+.center .cot1{
+    width:50%;
+    float: left;
+    padding: 0  20px 0 20%;
+}
+.center .cot2{
+    width:50%;
+    float: right;
+    padding: 0  20% 0 20px;
+}
+.center .image{
+    border-radius: 10px;
+    border: dotted #49A333;  
+}
+.center .text{
+    text-align: justify;
+    padding-top: 10px;
+    line-height: 1.5;
+}
+.before{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 20px 20% 0 20%;
+}
+.before .m1{
+    margin-right: 20px;
+}
+.before .image3{
+    width: 150px;
+    height: 150px;
+}
+.end{
+    color: #2A6E01;
+    line-height: 1.5;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.end2{
+    padding-left: 380px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+Footer
+© 2023 GitHub, Inc.
